@@ -1,0 +1,18 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.image1 {
+	-fx-background-image: url(christopher-rusev-CbV2Wkrz1YI-unsplash.jpg); 
+}
+
+.image2 {
+	-fx-background-image: url(christopher-rusev-YmwzSUdXI0Y-unsplash.jpg); 
+}
+
+.image3 {
+	-fx-background-image: url(collin-miller-WLqIwRh1JkY-unsplash.jpg); 
+}
+
+.image4 {
+	-fx-background-image: url(nikolay-vorobyev-kuMQrO_C-to-unsplash.jpg); 
+}
+
+
